@@ -1,15 +1,16 @@
 {
-  "name": "baileys",
+  "name": "@rapix/baileys",
   "type": "module",
   "version": "7.0.0-rc14",
-  "description": "A WebSockets library for interacting with WhatsApp Web",
+  "description": "Rapix Baileys - A WebSockets library for interacting with WhatsApp Web",
   "keywords": [
     "whatsapp",
     "automation"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys/",
+  "homepage": "https://github.com/RapixMD/rapixmd",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "type": "git",
+    "url": "https://github.com/RapixMD/rapixmd.git"
   },
   "license": "MIT",
   "author": "Rajeh Taher",
